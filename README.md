@@ -45,4 +45,4 @@ Other Payment Methods: 24.22%, 24.69%
 
 - DAX (Data Analysis Expressions) – For calculated insights.
 
-- CSV Data Sources – Sales records and transactions.
+- Excel Data Sources – Sales records and transactions.
